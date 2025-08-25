@@ -4,7 +4,7 @@ A simple Windows batch script that performs bulk DNS lookups for a list of domai
 Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslookup, prints a neat table, and exports results to a timestamped CSV.
 
 1. Prepare your input file: <br>
-     <br>
+
      Create a plain text file with one domain/URL per line, e.g., *urls.txt*:
       ```
       google.com
@@ -15,7 +15,7 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
      #### *Note: Place it in the same folder as bulk-dns-lookup.bat (or note its full path).*
 
 2. Run the script: <br>
-      <br>
+
       Open Command Prompt (or PowerShell) in the repo folder and run:
    
       <img width="717" height="250" alt="image" src="https://github.com/user-attachments/assets/98280912-6313-4474-940e-97700757152e" />
@@ -36,15 +36,12 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
 
 5. Sample output: <br>
 
-     <br>
-          - urls.txt sample format: <br>
-     <br>
+   - urls.txt sample format:
+
      <img width="210" height="253" alt="image" src="https://github.com/user-attachments/assets/1ca3ab5b-ea4b-45c9-bf05-9d5dbc40050e" />
 
-     <br>
-     <br>
-          - sample script execution: <br>
-     <br>
+   - sample script execution:
+
      <img width="651" height="849" alt="image" src="https://github.com/user-attachments/assets/281dcc11-ed3b-4924-a8b2-092c5e4fb673" />
 
 ## Tips & troubleshooting: <br>
