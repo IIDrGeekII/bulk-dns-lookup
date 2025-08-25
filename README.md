@@ -15,8 +15,8 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
 
 2. Run the script:
       Open Command Prompt (or PowerShell) in the repo folder and run:
-   ```
-   <img width="717" height="250" alt="image" src="https://github.com/user-attachments/assets/98280912-6313-4474-940e-97700757152e" />
+   
+      <img width="717" height="250" alt="image" src="https://github.com/user-attachments/assets/98280912-6313-4474-940e-97700757152e" />
 
-   ```
+   
 4. 
