@@ -20,10 +20,12 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
 
 3. Enter your input filename: <br>
       When prompted: <br>
+      <br>
         *If the file is in the same folder:* <br>
              ```
              Enter the filename containing URLs: urls.txt
              ``` <br>
+             <br>
         *If it’s elsewhere, give the full path (quotes if it has spaces):* <br>
              ```
              Enter the filename containing URLs: "C:\path\to\Documents\urls.txt"
