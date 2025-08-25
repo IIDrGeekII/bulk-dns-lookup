@@ -11,7 +11,7 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
       example.org
       invalid-domain.test
       ```
-# *Note: Place it in the same folder as bulk-dns-lookup.bat (or note its full path).*
+### *Note: Place it in the same folder as bulk-dns-lookup.bat (or note its full path).*
 
 
 3. 
