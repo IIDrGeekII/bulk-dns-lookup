@@ -18,7 +18,7 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
    
       <img width="717" height="250" alt="image" src="https://github.com/user-attachments/assets/98280912-6313-4474-940e-97700757152e" />
 
-3. Enter your input filename: /n
+3. Enter your input filename: <br>
       When prompted:
         *If the file is in the same folder:*
              ```
