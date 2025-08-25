@@ -24,7 +24,6 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
              ```
              Enter the filename containing URLs: urls.txt
              ```
-
         *If it’s elsewhere, give the full path (quotes if it has spaces):*
              ```
              Enter the filename containing URLs: "C:\path\to\Documents\urls.txt"
