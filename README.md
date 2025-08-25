@@ -36,6 +36,15 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
 
 5. Sample output: <br>
 
+     <br>
+          - urls.txt sample format: <br>
+     <br>
+     <img width="210" height="253" alt="image" src="https://github.com/user-attachments/assets/1ca3ab5b-ea4b-45c9-bf05-9d5dbc40050e" />
+
+     <br>
+     <br>
+          - sample script execution: <br>
+     <br>
      <img width="651" height="849" alt="image" src="https://github.com/user-attachments/assets/281dcc11-ed3b-4924-a8b2-092c5e4fb673" />
 
 ## Tips & troubleshooting: <br>
