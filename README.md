@@ -18,5 +18,14 @@ Bulk DNS lookup for Windows. Reads domains from a file, resolves IPs via nslooku
    
       <img width="717" height="250" alt="image" src="https://github.com/user-attachments/assets/98280912-6313-4474-940e-97700757152e" />
 
-   
-4. 
+3. Enter your input filename:
+      When prompted:
+        *If the file is in the same folder:*
+             ```
+             Enter the filename containing URLs: urls.txt
+             ```
+
+        *If it’s elsewhere, give the full path (quotes if it has spaces):*
+             ```
+             Enter the filename containing URLs: "C:\path\to\Documents\urls.txt"
+             ```
